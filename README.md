@@ -12,7 +12,7 @@ file_name = 'Name of save file'
 Currently script only works on a precise file name format `Frank Nike, @Clashkid155` , will probably change later.
 
 ### Running
-Simply type `python fwrite.py` in your terminal.
+Simply type `python Fwrite.py` in your terminal.
 
 
 ### Todo.
