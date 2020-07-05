@@ -16,7 +16,7 @@ Simply type `python Fwrite.py` in your terminal.
 
 
 ### Todo.
-- [ ] Remove all hard code.
+- [x] Remove all hard code.
 
 ### Why i wrote this ?
 I needed a way to write all filenames in a directory to a file so i came up with this. I also need Github to hold it for me 😁.
